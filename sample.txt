@@ -1,1 +1,5 @@
 Hii everyone
+
+git add
+git init
+commit
