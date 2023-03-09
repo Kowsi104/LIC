@@ -1,5 +1,16 @@
 Hii everyone
 
+<<<<<<< HEAD
 git add
 git init
 commit
+=======
+<html>
+<head>
+<body>
+<h1> ok go ahead with git learning.</h1>
+</body>
+</head>
+</html>
+
+>>>>>>> 6fc668bda48763a4c7a5186bbad03ed822437389
